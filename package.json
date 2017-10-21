@@ -7,7 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A node.js project for teaching student at CMU",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
